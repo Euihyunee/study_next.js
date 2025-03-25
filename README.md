@@ -22,3 +22,10 @@ npx create-next-app@latest {폴더명}
 > `Turbopack`은 기존의 웹팩(Webpack)을 대체할 수 있는 도구이다. `next build` 단계에서는 지원되지 않으며, 일부 기능들도 현재 개발 중에 있으므로 사용하지 않을 것이다.
 > `alias`는 next.js에서 import 경로를 간단하게 줄이는 데 사용합니다. 
 
+## npm 설치 및 시작
+
+```bash
+npm install
+
+npm run dev 
+```
