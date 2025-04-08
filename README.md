@@ -29,3 +29,9 @@ npm install
 
 npm run dev 
 ```
+
+## node 버전 변경 
+```bash
+winget install Schniz.fnm
+fnm install 23
+```
